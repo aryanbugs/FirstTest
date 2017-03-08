@@ -1,3 +1,3 @@
 # FirstTest
 
-Changing this to learning Git Hub branching concepts
+Changing this to learn Git Hub branching concepts
